@@ -3,7 +3,7 @@
 
 * I was born in Zambia but moved to Germany for school.
 * I have a PhD in Neuroscience but have no intention of staying in academia.
-* I have some experience analyzing data from my own experiments but no formal training whatsoever.
+* I dont havew any experience analyzing data from my own experiments but no formal training whatsoever.
 
 # Why am I here
 
@@ -14,4 +14,4 @@
 
 * Would love to get into the sports industry.
 * I will look for patterns in data where people are not even looking.
-* To enjoy myself.
+* To enjoy learn and improve.
