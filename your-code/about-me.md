@@ -9,3 +9,8 @@
 
 * I came to Ironhack to learn.
 * Proper coding, machine learning, stats!
+
+# What will I do after the course?
+-* Would love to get into the sports industry.
+-* I will look for patterns in data where people are not even looking.
+-* To enjoy learn and improve.
