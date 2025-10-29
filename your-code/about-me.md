@@ -7,5 +7,5 @@
 
 # Why am I here
 
-* I came to Ironhack to learn, meet new people and to open new opportunities.
+* I came to Ironhack to learn.
 * Proper coding, machine learning, stats!
